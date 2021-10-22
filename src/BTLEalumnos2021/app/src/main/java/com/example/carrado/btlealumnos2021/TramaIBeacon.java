@@ -4,6 +4,7 @@ import java.util.Arrays;
 
 // -----------------------------------------------------------------------------------
 // @author: Jordi Bataller i Mascarell
+// @descripcion: clase beacon
 // -----------------------------------------------------------------------------------
 public class TramaIBeacon {
     private byte[] prefijo = null; // 9 bytes
